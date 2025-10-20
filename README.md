@@ -5,6 +5,9 @@
 2. Gemini API
 3. Streamlit
 
+## Link of the project :
+[View the project here](https://pranith-story-generator.streamlit.app/) 
+
 ## Working :
 You have to give images between 1 to 10 and click on the generate story button and the AI will use these images to generate a story. The output also contains an audio of the story. 
 <br>
