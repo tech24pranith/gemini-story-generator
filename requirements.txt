@@ -1,0 +1,15 @@
+streamlit
+python-dotenv  # load_dotenv
+google-genai
+google-generativeai
+Pillow
+gTTS
+
+# 1. Interface
+# 2. Input images and story generation
+# 3. Deploy 
+
+
+# pip install gTTS
+# pip install -q -U google-genai
+# pip install streamlit
